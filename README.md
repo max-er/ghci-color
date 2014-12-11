@@ -3,7 +3,7 @@ ghci-color
 
 haskell interpreter colorizer
 
-This script colorizes ghci output.
+This script colorizes ghci output. See https://raw.githubusercontent.com/max-er/ghci-color/master/screenshot.png
 
 Requirement: sed. This command is often pre-installed in \*nix OS systems.
 
